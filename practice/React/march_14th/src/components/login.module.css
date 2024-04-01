@@ -29,7 +29,8 @@
 .image_login {
     width: 40%;
     height: 100%;
-    background-image: url('src/images/pexels-photo-114979.webp');
+    /* background-image: url('src/images/pexels-photo-114979.webp'); */
+    background-image: url('https://images.pexels.com/photos/114979/pexels-photo-114979.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
     background-size: cover;
 }
 
@@ -176,7 +177,7 @@
     box-shadow: 0px 3px 0px 0px #fb3d3d;
 }
 
-.input_noerr:focus{
+.input_noerr:focus {
     box-shadow: 0px 3px 0px 0px #54bbf7;
 }
 

@@ -45,7 +45,9 @@
 .container {
     width: 100%;
     display: flex;
-    background-image: url('src/images/pattern.svg');
+    /* background-image: url('src/images/pattern.svg'); */
+    background-image: url('https://www.onkologiepflege.ch/fileadmin/user_upload/credits_blaue_wellen_hero.jpg');
+
     background-size: cover;
     justify-content: center;
     align-items: center;
